@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "釣魚",
+  "description": "享受悠閒的釣魚時光",
+  "version": "1.0",
+  "icons": {
+    "128": "128.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ]
+}
